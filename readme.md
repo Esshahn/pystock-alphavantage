@@ -1,4 +1,4 @@
-# pystocks-vanguard
+# pystocks-alphavantage
 
 Small class that retrieves stock prices via the Alpha Vantage API.
 
